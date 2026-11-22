@@ -3,6 +3,7 @@
 ## 🙏 致谢
 感谢以下开源项目为本 App 提供基础支持：
  - [**AstrBot-Android-App**](https://github.com/zz6zz666/AstrBot-Android-App)：原版AstrBot项目
+  - [**AstrBot-Bubble-Android-App**](https://github.com/MuFengDR/AstrBot-Bubble-Android-App)：原版AstrBot 泡泡版 项目
  - [**Code LFA**](https://github.com/nightmare-space/code_lfa)：提供安卓端 Ubuntu 容器环境
  - [**AstrBot**](https://docs.astrbot.app/)：强大的多平台聊天机器人框架
  - [**OpenQQ**](https://github.com/OpenQQ/OpenQQ)：当前 QQ 接入方案
@@ -158,7 +159,7 @@
 - 安装分步进行，不再一次安装，减少出错概率。首次启动请在主页点击**环境管理**进行安装
 - QQ 接入从 **删库的NapCat** 迁移到 OpenQQ，~~当前为单 QQ 账号~~由于QQ限制，一台Linux上面只能存在一个QQ实例。
 - 优化了使用体验
-- 与原版共存，与原版数据隔离
+- [**AstrBot-Android-App**](https://github.com/zz6zz666/AstrBot-Android-App)、 [**AstrBot-Bubble-Android-App**](https://github.com/MuFengDR/AstrBot-Bubble-Android-App) 和本项目三者均可共存
 <details>
 <p align="center">
 <img src="logo-C2MGgWT2.png" width=50 />
